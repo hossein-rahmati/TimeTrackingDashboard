@@ -1,6 +1,6 @@
 @font-face {
-  font-family: Rubik;
-  src: url("../font/Rubik-VariableFont_wght.ttf");
+  font-family: Vazir-medium;
+  src: url("font/Vazir-Medium.ttf");
 }
 
 :root {
@@ -19,35 +19,15 @@
 
 body {
   background: linear-gradient(270deg, #5847eb, #1c1f4a);
-  background-size: 400% 400%;
-  direction: rtl;
-  -webkit-animation: AnimationName 10s ease infinite;
-  -moz-animation: AnimationName 10s ease infinite;
-  animation: AnimationName 10s ease infinite;
-}
-
-@-webkit-keyframes AnimationName {
-  0%{background-position:0% 51%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 51%}
-}
-@-moz-keyframes AnimationName {
-  0%{background-position:0% 51%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 51%}
-}
-@keyframes AnimationName {
-  0%{background-position:0% 51%}
-  50%{background-position:100% 50%}
-  100%{background-position:0% 51%}
 }
 
 body {
-  font-family: Rubik;
+  font-family: Vazir-medium;
   display: flex;
   flex-direction: column;
   padding: 20px;
   min-width: 375px;
+  direction: rtl;
 }
 
 .Head-1 {
