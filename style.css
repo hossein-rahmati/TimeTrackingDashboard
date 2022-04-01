@@ -28,6 +28,7 @@ body {
   padding: 20px;
   min-width: 375px;
   direction: rtl;
+  max-width: 1599px;
 }
 
 .Head-1 {
@@ -85,7 +86,6 @@ body {
 
 .Head-2 p:hover {
   opacity: 1;
-  font-size: 30px;
 }
 
 .Background-card-1,
