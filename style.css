@@ -18,12 +18,9 @@
 }
 
 body {
-  background: linear-gradient(270deg, #5847eb, #1c1f4a);
-}
-
-body {
   font-family: Vazir-medium;
   display: flex;
+  background-color: #5847eb;
   flex-direction: column;
   padding: 20px;
   min-width: 375px;
