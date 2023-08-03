@@ -1,11 +1,5 @@
 hey there,
-
 this is a web Time Tracking Dashboard Project.
-
 I used only HTML and CSS in my project.
-
-my Most challenge was in Responsibility of page.
-
-you can also see project online on https://hosseinrmt.github.io/TimeTrackingDashboard/
-
+my biggest challenge was in the Responsibility of the page.
 I hope You enjoy :)
